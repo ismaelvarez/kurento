@@ -1,0 +1,7 @@
+[submodule "kurento-aplication-server"]
+	path = kurento-aplication-server
+	url = https://github.com/ismaelvarez/kurento-server.git
+
+[submodule "kurento-orion"]
+	path = kurento-orion
+	url = https://github.com/ismaelvarez/kurento-orion.git
