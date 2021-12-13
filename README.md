@@ -10,8 +10,8 @@ Deploy:
   - server.port=8443
   - server.users=/tmp/adminUsers.txt
 - Start submodules:
-  - git submodule init
+  - `git submodule init`
 - Update submodules
-	- git submodule update
+	- `git submodule update`
 - Compile and install:
-	- mvn clean compile install package
+	- `mvn clean compile install package`
