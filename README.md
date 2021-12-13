@@ -1,4 +1,4 @@
-# kurento
+# Kurento Services
 Kurento Application Server, KMS Modules and Kurento-Fiware libraries
 
 
