@@ -1,7 +1,7 @@
 [submodule "kurento-application-server"]
 	path = kurento-application-server
-	url = https://github.com/ismaelvarez/kurento-server.git
+	url = https://gitlab.gtc.iac.es/ialvarez/kurento-server.git
 
 [submodule "kurento-orion"]
 	path = kurento-orion
-	url = https://github.com/ismaelvarez/kurento-orion.git
+	url = https://gitlab.gtc.iac.es/ialvarez/kurento-orion.git
